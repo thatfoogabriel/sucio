@@ -41,7 +41,7 @@ const data = {
             name: 'Shirt 4',
             slug: 'shirt-4',
             category: 'Shirts',
-            image: '/images/shirt1.jpg',
+            image: '/images/shirt4.jpg',
             price: 40,
             brand: 'Sucio',
             rating: 4.8,
